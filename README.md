@@ -1,1 +1,1 @@
-![](/Home_img.jpeg)
+![](/Home_img.jpg)
