@@ -2,5 +2,11 @@
 
 - title: Home
   url: /
+- title: Americana
+  url: /americana
+- title: Folk
+  url: /folk
+- title: Jazz
+  url: /jazz
 - title: Rock
   url: /rock
