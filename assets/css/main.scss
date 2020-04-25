@@ -7,11 +7,6 @@ sitemap: false
 
 @import "so-simple";
 
-body, p, a, h1, h2, h3, h4, h5, h6 {
+body, p, a, h1, h2, h3, h4, h5, h6, .site-description {
   font-family: 'Oswald', sans-serif;
-}
-
-@media screen and (min-width: 320px)
-.site-title {
-    font-size: 36px;
 }
