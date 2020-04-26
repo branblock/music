@@ -9,6 +9,14 @@ Alice Coltrane, <a href="tidal://album/4037730" target="_blank">*World Galaxy*</
 Billie Holiday, <a href="tidal://album/93057537" target="_blank">*Lady Sings The Blues*</a> (1956)  
 Blossom Dearie, <a href="tidal://album/77658906" target="_blank">*Blossom Dearie*</a> (1959)  
 Giuseppe Logan, <a href="tidal://album/21013203" target="_blank">*More*</a> (1963)  
-Nina Simone, <a href="tidal://album/108022684" target="_blank">*I Put A Spell On You*</a> (1965)
-
+Nina Simone, <a href="tidal://album/108022684" target="_blank">*I Put A Spell On You*</a> (1965)  
+Nina Simone, <a href="tidal://album/121091939"target="_blank">*Pastel Blues*</a> (1965)  
+Nina Simone, <a href="tidal://album/127810809"target="_blank">*Let It All Out*</a> (1966)  
+Nina Simone, <a href="tidal://album/77652171"target="_blank">*High Priestess Of Soul*</a> (1966)  
+Nina Simone, <a href="tidal://album/109122750"target="_blank">*Wild Is The Wind*</a> (1966)  
+Nina Simone, <a href="tidal://album/19920261"target="_blank">*To Love Somebody - Expanded Edition*</a> (1969)  
+Nina Simone, <a href="tidal://album/19882524"target="_blank">*Nina Simone & Piano*</a> (1969)  
+Nina Simone, <a href="tidal://album/19882464"target="_blank">*Here Comes The Sun*</a> (1971)  
+Nina Simone, <a href="tidal://album/19882479"target="_blank">*It Is Finished*</a> (1974)  
+Nina Simone, <a href="tidal://album/135655599"target="_blank">*Fodder On My Wings*</a> (1982)  
 
