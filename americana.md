@@ -1,3 +1,19 @@
-**Americana**
+**Americana/Folk**
 
+Bob Dylan, <a href="tidal://album/16807175" target="_blank">*The Freewheelin' Bob Dylan*</a> (1963)  
+Bob Dylan, <a href="tidal://album/14230280" target="_blank">*The Times They Are A-Changin'*</a> (1964)  
+Bob Dylan, <a href="tidal://album/14297761" target="_blank">*Another Side Of Bob Dylan*</a> (1964)  
+Bob Dylan, <a href="tidal://album/11344854" target="_blank">*Bringing It All Back Home*</a> (1965)  
+Bob Dylan, <a href="tidal://album/11343637" target="_blank">*Highway 61 Revisited*</a> (1965)  
+Bob Dylan, <a href="tidal://album/14221358" target="_blank">*Blonde on Blonde*</a> (1966)  
+Bob Dylan, <a href="tidal://album/14290344" target="_blank">*John Wesley Harding*</a> (1967)  
+Bob Dylan, <a href="tidal://album/14234183" target="_blank">*Nashville Skyline*</a> (1969)  
+Bob Dylan, <a href="tidal://album/22781313" target="_blank">*Self Portrait*</a> (1970)  
+Bob Dylan, <a href="tidal://album/16833907" target="_blank">*New Morning*</a> (1970)  
+Bob Dylan, <a href="tidal://album/22781338" target="_blank">*Pat Garrett & Billy The Kid (Soundtrack)*</a> (1973)  
+Bob Dylan, <a href="tidal://album/14290154" target="_blank">*Planet Waves*</a> (1974)  
+Bob Dylan, <a href="tidal://album/14219094" target="_blank">*Blood On The Tracks*</a> (1975)  
+Bob Dylan, <a href="tidal://album/2411510" target="_blank">*The Basement Tapes*</a> (1975)  
+Bob Dylan, <a href="tidal://album/14234194" target="_blank">*Desire*</a> (1976)  
+Bob Dylan, <a href="tidal://album/22781359" target="_blank">*Street Legal*</a> (1978)  
 John Prine, <a href="tidal://album/68670074" target="_blank">*John Prine*</a> (1971)  
