@@ -9,6 +9,8 @@ Jonathan Wilson, <a href="tidal://album/111595923" target="_blank">*Pity Trials 
 Jonathan Wilson, <a href="tidal://album/62245761" target="_blank">*Slide By - EP*</a> (2014)  
 Jonathan Wilson, <a href="tidal://album/85237163" target="_blank">*Rare Birds*</a> (2018)  
 Jonathan Wilson, <a href="tidal://album/130042560" target="_blank">*Dixie Blur*</a> (2020)  
+Mason Proffit, <a href="tidal://album/5392253" target="_blank">*Last Night I Had The Strangest Dream*</a> (1971)  
+Mason Proffit, <a href="tidal://album/358876" target="_blank">*Rockfish Crossing*</a> (1972)  
 REM, <a href="tidal://album/77632979" target="_blank">*Murmur*</a> (1983)  
 REM, <a href="tidal://album/77629890" target="_blank">*Reckoning*</a> (1984)  
 REM, <a href="tidal://album/79632698" target="_blank">*Fables Of The Reconstruction*</a> (1985)  
