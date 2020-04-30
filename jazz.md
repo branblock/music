@@ -19,4 +19,4 @@ Nina Simone, <a href="tidal://album/19882524" target="_blank">*Nina Simone & Pia
 Nina Simone, <a href="tidal://album/19882464" target="_blank">*Here Comes The Sun*</a> (1971)  
 Nina Simone, <a href="tidal://album/19882479" target="_blank">*It Is Finished*</a> (1974)  
 Nina Simone, <a href="tidal://album/135655599" target="_blank">*Fodder On My Wings*</a> (1982)  
-
+Turiya Alice Coltrane & Devadip Carlos Santana, <a href="tidal://album/120160134" target="_blank">*Illuminations*</a> (1974)  
