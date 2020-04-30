@@ -48,6 +48,8 @@ Jonathan Wilson, <a href="tidal://album/85237163" target="_blank">*Rare Birds*</
 Jonathan Wilson, <a href="tidal://album/130042560" target="_blank">*Dixie Blur*</a> (2020)  
 Mason Proffit, <a href="tidal://album/5392253" target="_blank">*Last Night I Had The Strangest Dream*</a> (1971)  
 Mason Proffit, <a href="tidal://album/358876" target="_blank">*Rockfish Crossing*</a> (1972)  
+Mason Proffit, <a href="tidal://album/358810" target="_blank">*Bare Back Rider*</a> (1973)  
+Mason Proffit, <a href="tidal://album/358836" target="_blank">*Come And Gone*</a> (1974)  
 Nina Simone, <a href="tidal://album/108022684" target="_blank">*I Put A Spell On You*</a> (1965)  
 Nina Simone, <a href="tidal://album/121091939" target="_blank">*Pastel Blues*</a> (1965)  
 Nina Simone, <a href="tidal://album/127810809" target="_blank">*Let It All Out*</a> (1966)  
