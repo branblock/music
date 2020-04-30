@@ -83,4 +83,5 @@ Roberta Flack, <a href="tidal://album/68711202">*Killing Me Softly*</a> (1973)
 Roberta Flack, <a href="tidal://album/68671750">*Feel Like Makin' Love*</a> (1975)  
 Roberta Flack & Donny Hathaway, <a href="tidal://album/76891444">*Roberta Flack & Donny Hathaway*</a> (1972)  
 Turiya Alice Coltrane & Devadip Carlos Santana, <a href="tidal://album/120160134" target="_blank">*Illuminations*</a> (1974)  
-
+10,000 Maniacs, <a href="tidal://album/1186823" target="_blank">*In My Tribe*</a> (1987)  
+10,000 Maniacs, <a href="tidal://album/3044363" target="_blank">*Blind Man's Zoo*</a> (1989)  
